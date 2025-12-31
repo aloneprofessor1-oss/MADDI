@@ -1,0 +1,8 @@
+{
+  "name": "MK-21 MINI - Personalized AI Assistant",
+  "description": "A sophisticated, emotionally intelligent AI chatbot with glassmorphic UI, voice integration, and image generation capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
